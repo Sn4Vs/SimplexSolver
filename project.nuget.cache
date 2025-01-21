@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PYt9F20tBp0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SnaVs\\source\\repos\\SimplexSolver\\SimplexSolver\\SimplexSolver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SnaVs\\.nuget\\packages\\accord\\3.8.0\\accord.3.8.0.nupkg.sha512",
+    "C:\\Users\\SnaVs\\.nuget\\packages\\accord.math\\3.8.0\\accord.math.3.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
