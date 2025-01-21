@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34902.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplexSolver", "SimplexSolver\SimplexSolver.csproj", "{AD87149C-02ED-42E0-8CB1-9780A3013515}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD87149C-02ED-42E0-8CB1-9780A3013515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD87149C-02ED-42E0-8CB1-9780A3013515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD87149C-02ED-42E0-8CB1-9780A3013515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD87149C-02ED-42E0-8CB1-9780A3013515}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {713F411E-B07A-4700-99E1-47FEAD7010CB}
+	EndGlobalSection
+EndGlobal
